@@ -13,3 +13,4 @@ Sie die Frage in 2-3 Sätzen.
 
 
 ### 3
+Ich beantworte Fragebögen eher bei persönlichen Fragen. Interview für allgemeine Fragen über das Spiel.
