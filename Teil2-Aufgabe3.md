@@ -1,6 +1,6 @@
 ## Steillung
 ```
-Warum ist die System Usability Scale (SUS, siehe Brooke 1995 auf Researchgate)
+Warum ist die System Usability Scale (SUS, siehe Brooke 1995 auf Researchgate(https://www.researchgate.net/publication/228593520_SUS_A_quick_and_dirty_usability_scale))
 keine gute Wahl zur Evaluierung digitaler Spiele? Beantworten Sie die Frage in 2-3 Sätzen.
 ```
 
@@ -12,3 +12,4 @@ keine gute Wahl zur Evaluierung digitaler Spiele? Beantworten Sie die Frage in 2
 
 
 ### 3
+Das System ist sehr schlecht, da es nur einen kleinen Aspekt eines Spiels evaluieren kann. Ein Spiel ist ein komplexes System, das in all seinen Aspekten evaluiert werden sollte, nicht nur in dem technischen.
