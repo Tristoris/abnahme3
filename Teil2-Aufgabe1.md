@@ -10,7 +10,7 @@ jeweiligen Herangehensweise verbunden? Beantworten Sie die Frage in 5-6 Sätzen.
 
 
 ### 2
-
+Bei bereits getesteten Fragebögen hat man schon Informationen dazu, wie die Antworten ausfallen können. Somit umgeht man schlechte bzw. ungenaue Formulierungen. Im Gegensatz dazu ist eine selbst erstellte Frageliste zwar spezifischer auf die aktuelle Situation zugeschnitten, der Befund kann dafür aber qualitativ niederwertig sein. Man muss sich also dessen bewusst sein, dass man die Balance halten muss zwischen qualitativ guten Antworten, die die Frage tatsächlich ohne viel Spielraum beantworten, und Fragen, die thematisch treffend sind, dafür aber möglicherweise falsch interpretiert und beantwortet werden können.
 
 ### 3
 Der Unterschied besteht darin, dass getestete Fragebögen allgemeine Charakteristika erfassen, während eigene Fragebögen eher an das Spiel angepasst sind.
