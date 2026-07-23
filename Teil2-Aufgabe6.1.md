@@ -23,7 +23,14 @@ anfertigen (z.B. ein kurzes Storyboard).
 ## Antwort
 
 ### Szenario 1
+Idee: 
+ Ein Spiel, bei dem man die Wand/Tür/den Tisch seines eigenen Hauses nutzt, um Puzzles zu lösen. Somit wird die Illusion erzeugt, durch das Element hindurchschauen zu können, um an die Puzzleelemente zu kommen. Die Puzzles variieren von Rohren/Kabeln an der Wand, die repariert werden müssen, bis hin zu mechanischen Puzzles, die beim Tisch oder bei der Tür zu lösen sind.
 
+Der Hintergrund wurde spezifisch neutral gewählt, sodass man selbst Jitter nicht so stark mitbekommt, um Motion Sickness zu vermeiden. Zudem gibt es die Option, das Spiel am Tisch auch im Sitzen zu spielen, um Fatigue zu minimieren.
+
+Alle UI-Elemente sollen groß und kontrastreich sein, um es der Zielgruppe einfacher zu machen, die Elemente intuitiv zu verstehen.
+
+Die Interaktion mit dem Spiel soll über die Hand-Movement-Recognition von Apple geschehen, sodass kein Controller gebraucht wird, was die Lernkurve erhöhen würde.
 
 ### Szenario 2
 Idee:

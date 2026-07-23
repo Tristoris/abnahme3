@@ -26,3 +26,25 @@ haben wird.
 ```
 
 ## Antwort
+
+### Szenario 1
+1. Fragestellungen
+    - Kann die Zielgruppe das UI verstehen
+    - hat die Zielgruppe die nötige Motorik/ Ausdauer das spiel zu spielen (ggf längere zeit die arme hoch halten am "Schrauben")
+    - Ist man während des spielens Schwindelig geworden oder Kopfschmerzen gehabt.
+    - Ist das Spiel intuitiv. Wusste die Zielgruppe was zu tun ist
+    - Ist das Spiel Spannend und interressant
+    - Hatte man das gefühl nicht wieter zu kommen
+2. Methodik
+    - Fragebogen für einfache Fragen (wie sind Ihre Arme nach dem Spielen Ermüdet) aber auch fragen um das UI rum
+    - Interview/ gespräch für spiel mechaniken und gamelplayloop
+    - beim Spielen Zuschauen und beobachten (auf schwindel oder sonstige körperliche anomalien)
+
+3. Teilnehmende
+    - Zielgruppe von 60+
+    - Menschen jeden alters, die "viel" AR/VR spiele Spielen
+    - Menschen die keine spiele Spielen
+4. Wo
+    - in ein Kontrollierten raum mit "ideale bedingungen"
+    - "normalen" Zimmer wo bei der wand/ tisch ggf. auch deko ist
+5. 
