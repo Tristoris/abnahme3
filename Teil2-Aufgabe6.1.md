@@ -1,4 +1,4 @@
-## Steillung
+## Stellung
 ```
 Szenario 1: Sie arbeiten bei einem mittelgroßen Entwicklungsstudio, und möchten Ihren
 Spieleprototypen zwecks Pitch beim Publisher evaluieren, um die einzigartige Spielerfahrung

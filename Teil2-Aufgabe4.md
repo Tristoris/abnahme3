@@ -1,4 +1,4 @@
-## Steillung
+## Stellung
 ```
 Welche Alternative zur subjektiven Evaluierung von Player Experience finden Sie
 besonders wertvoll? Begründen Sie Ihre Antwort, und schreiben Sie insgesamt 2-3 Sätze.
@@ -6,7 +6,7 @@ besonders wertvoll? Begründen Sie Ihre Antwort, und schreiben Sie insgesamt 2-3
 
 ## Antwort
 ### 1
-
+Metriken die das konkrete Spielverhalten analysieren sind ebenfalls wertvoll. Beispielsweise Statistiken über "wie viele Versuche brauchten Teilnehmer im Durchschnitt bei Level x", "was sind die meist/wenigsten genutzten Items, Tricks, Routen, Waffen, Werkzeuge usw. (angepasst an das Genre)", etc. bietet Einsicht welche Features evtl. angepasst oder besonders hervorgehoben werden sollten. Meiner Meinung nach sollten sie aber vorallem dazu dienen, angepasste Fragebögen zu erstellen, die zu einer subjektiven Evaluierung führen, da es reinen Statistiken den nötigen Tiefgang fehlt und zu falschen Schlüssen führen können.
 
 ### 2
 Qualitative Spielstunden. Spielstunden, in denen der Spieler das Spiel aktiv spielt. Zusammen mit den Systemen und Komponenten, die der Spieler in dieser Zeit nutzt, ist das eine wichtige Metrik, um zu wissen, was Spieler an deinem Spiel interessant finden und welche Features ggf. ein Rework oder eine Verbesserung brauchen.

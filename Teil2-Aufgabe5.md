@@ -1,4 +1,4 @@
-## Steillung
+## Stellung
 ```
 Welchen Vorteil haben quantitative Daten gegenüber qualitativen Daten? Welche
 Nachteile sehen Sie? Beantworten Sie die Frage in 2-3 Sätzen.
@@ -6,7 +6,7 @@ Nachteile sehen Sie? Beantworten Sie die Frage in 2-3 Sätzen.
 
 ## Antwort
 ### 1
-
+Quantitative Daten sind skalierbar, direkt vergleichbar und günstiger auszuwerten. Qualitative Daten bieten aber durch Freitexte, Reaktionen, Beobachtungen, usw. Tiefe und Kontext, was bei Quantitativen schlichtweg Daten fehlt, dafür aber teurer in der Erarbeitung und schwer vergleichbar.
 
 ### 2
 Quantitative Daten geben dir eine relative Antwort. Mit ihnen lassen sich Spieler besser untereinander vergleichen und deren Verhalten analysieren. Wenn diese Daten aber wiederum qualitativ minderwertig sind, kann das zu falschen Folgerungen führen.
